@@ -1,3 +1,5 @@
+**[update 2021/06] The system summaries are uploaded as output.zip.**
+
 ### Code
 
 `train_full_rl.py`: Main file. Call training.py -> rl.py -> model/rl.py. 
